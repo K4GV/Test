@@ -1,4 +1,5 @@
 # Test
-This is a forked repo
+This is a forked repository
 
-Karume loves programming.
+Charity loves astronomy
+
